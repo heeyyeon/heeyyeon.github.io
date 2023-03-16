@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head><title>2023년3월16일 실습</title></head>
+<body>
+<iframe src="0316_2.html" name="left" width="400" height="400">
+</iframe>
+<iframe src="https://www.gachon.ac.kr/kor/index.do" name="right" width="400" height="400">
+</iframe>
+</body>
+</html>
