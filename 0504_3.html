@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <h3>2023년 5월 4일 실습</h3>
+        <hr>
+        <script>
+            let count = prompt("정수입력");
+            count = parseInt(count);
+
+            if (count<=0) {
+                document.write("입력 오류입니다.");
+            }
+
+            for(i = 0; i < count; i++) {
+                for(j = 0; j <= i; j++) {
+                    document.write("*");
+                }
+                document.write("<br>")
+            }
+        </script>
+    </body>
+</html>
